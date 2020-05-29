@@ -1,2 +1,1 @@
-# Programming_Exercise| C-and-Python
-Team: Jacqueline Cruz & Adrian Gonzalez
+# Programming_10_Exercises| C-and-Python
